@@ -1,4 +1,4 @@
-Abgabe Digitale Bildverarbeitung 
+# Abgabe Digitale Bildverarbeitung 
 Name: Marius Hirt 
 Kurs: TFE21-2
 Matrikelnummer: 6036165
